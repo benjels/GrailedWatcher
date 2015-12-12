@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#stuff I added:
+venvForGrailedWatcher/
+GrailedWatcherPycharmProject/.idea/
